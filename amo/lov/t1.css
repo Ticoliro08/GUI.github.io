@@ -1,0 +1,26 @@
+.titulo{
+color: aliceblue;
+font-family: courier;
+text-align: center;
+}
+.t1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 130%;
+    color: aliceblue;
+float: right;
+
+text-align: center;
+}
+.ft1{
+    margin-top: 5%;
+    margin-bottom:-12% ;
+   margin-left: 70%;
+}
+.ft2{
+    margin-top: 5%;
+    margin-left: 20%;
+}
+.ft3{
+    margin-top: 5%;
+    margin-left: 60%;
+}
